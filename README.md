@@ -1,16 +1,35 @@
-# tracker_expenses
+# Expense Tracker App
 
-A new Flutter project.
+A mobile app that helps users record their daily spending, track where their money goes, and stay on top of their budget, with secure login.
 
-## Getting Started
+## Why I built it
+To practice building a complete mobile app from start to finish and to solve a real everyday problem: keeping track of personal expenses.
 
-This project is a starting point for a Flutter application.
+## Features
+- Login screen with user authentication
+- Add, edit, and delete expenses
+- Categorize spending (food, travel, bills, shopping, etc.)
+- View total spending and recent transactions
+- Data saved online, so nothing is lost
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
+- **Dart**: programming language
+- **Flutter**: framework for building the mobile app
+- **Firebase**: handles login and stores expense data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I learned
+- Building a mobile app UI with Flutter
+- Adding user login with Firebase Authentication
+- Storing and retrieving data from a cloud database
+- Organizing and calculating financial data
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run it
+1. Install Flutter (https://docs.flutter.dev/get-started/install)
+2. Download this project and open it in VS Code or Android Studio
+3. Run `flutter pub get` in the terminal
+4. Connect a phone or start an emulator
+5. Run `flutter run`
+
+## Contact
+Amit | 7385576516
+
